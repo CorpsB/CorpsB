@@ -1,16 +1,23 @@
-## Hi there 👋
+# Salut ! 👋 Moi c'est Noé
 
-<!--
-**CorpsB/CorpsB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant à Epitech | 💻 Développeur web passionné  
+🚀 Je travaille sur des bots Discord, des sites ASP.NET et des projets fun
 
-Here are some ideas to get you started:
+## ⚙️ Compétences
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Statistiques GitHub
+
+![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=NoeCarabin&show_icons=true&theme=radical)
+
+## 🌱 En ce moment, j'apprends
+- Haskell
+- Assembleur
+- L’architecture de bots Discord côté serveur
+
+---
+
+🧠 Curieux, passionné et toujours prêt à apprendre !
+
