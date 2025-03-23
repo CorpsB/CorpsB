@@ -62,7 +62,7 @@ so public GitHub stats don't reflect my actual contributions.
 
 Still, here's a snapshot of my public activity:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NoeCarabin&show_icons=true&theme=radical&hide=prs,issues)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CorpsB&show_icons=true&theme=radical&hide=prs,issues)
 
 ---
 
