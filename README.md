@@ -62,7 +62,7 @@ so public GitHub stats don't reflect my actual contributions.
 
 Still, here's a snapshot of my public activity:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CorpsB&layout=pie&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkotEgarim&theme=one_dark_pro&layout=compact)
 
 ---
 
