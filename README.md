@@ -62,7 +62,7 @@ so public GitHub stats don't reflect my actual contributions.
 
 Still, here's a snapshot of my public activity:
 
-[![Langages utilisés](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CorpsB&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CorpsB&layout=pie&theme=radical)
 
 ---
 
