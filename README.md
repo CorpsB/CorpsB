@@ -69,7 +69,7 @@ Still, here's a snapshot of my public activity:
 ## 🌍 Languages
 
 - 🇫🇷 French – native  
-- 🇬🇧 English – fluent  
+- 🇬🇧 English – B1  
 
 ---
 
