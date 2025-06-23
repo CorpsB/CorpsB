@@ -75,5 +75,5 @@ Still, here's a snapshot of my public activity:
 
 ## 💬 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil/)  
+[![LinkedIn](https://www.linkedin.com/in/no%C3%A9-carabin-b8032527a?utm)]
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:noe.carabin@epitech.eu)
